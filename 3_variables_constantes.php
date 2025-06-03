@@ -41,7 +41,7 @@
 
 
       //Creamos una constante llamada "capital_colombia", cuyo valor es Bogota
-      define("capital_colombia,", "Bogota");
+      define("capital_colombia,", "Bogota");    
 
 
     ?>
